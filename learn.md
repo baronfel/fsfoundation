@@ -30,6 +30,10 @@ The cheat sheet is a small and concise guide to F# syntax for newcomers to get s
 
 Learn F# by just filling in the gaps! The F# Koans are a fun set of code snippets where you have to fill in gaps to get tests to pass, and you learn the language along the way.  Also available as a [snippet](http://fssnip.net/bG) which can be loaded into interactive environments or your editor of choice.
 
+### [HackerRank](https://www.hackerrank.com)
+
+Learn F# by trying your skills in challenging scenarios across many different learning tracks, including Algorithms, Data Structures, Distributed Systems, and even a Functional Programming track.  The exercises stress performance and edge-case coverage, as the sample test data is often orders of magnitude less than the full test data. In addition, familiarity with this site can be useful for job interviews, as HackerRank offers a pair-programming interview component that many companies use.
+
 ### [F# Snippets](http://fssnip.net/)
 
 A collection of snippets of F# code.
